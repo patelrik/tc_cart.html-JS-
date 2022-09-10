@@ -9,7 +9,6 @@
    Date:  
    
    Filename: tc_cart.js
-	
 */
 //variables
 var orderTotal = 0;
