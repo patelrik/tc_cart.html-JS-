@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 1
 
-   Author: Rudrik Patel
-   Date:   01/02/2022
+   Author:
+   Date:  
    
    Filename: tc_cart.js
 	
